@@ -16,13 +16,12 @@ The raw dataset used for this analysis can be obtained from [Kaggle](https://www
 
 I've structured the work into a few sections.
 
-1. A presentation summary that discusses the findings and how we translate those to the business context. **It is recommended to start reading this before diving into the problem.**
-2. A brief write up on the methodology to understand how one looks at the background problem
+1. A brief write up on the methodology to understand how one looks at the background problem. **It is recommended to start reading this before diving into the technical details.** 
+2. A presentation summary that discusses the findings and how we translate those to the business context. *For those, who do not wish to know technical details and just want to understand applications, start here.*
 3. Notebooks that describe the details.
 
-
-- For a presentation summary of results: [Google Slides](https://docs.google.com/presentation/d/1nncf-fzmn0jox9lDAzNZjUyxRQ0v1vJn9shwO0JnfbA/edit?usp=sharing)
 - For more on the methodology: [blog page](https://lowlowjack.github.io/2024-09-29-going-from-analytics-to-science/).
+- For a presentation summary of results: [Google Slides](https://docs.google.com/presentation/d/1nncf-fzmn0jox9lDAzNZjUyxRQ0v1vJn9shwO0JnfbA/edit?usp=sharing)
 
 The rough idea on methodology is that it uses a mixture of different models to attempt to try to create an observational study group that we can draw inferences on. 
 
