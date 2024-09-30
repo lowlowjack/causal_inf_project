@@ -21,12 +21,12 @@ I've structured the work into a few sections.
 3. Notebooks that describe the details.
 
 
-For a presentation summary of results: [Google Slides](https://docs.google.com/presentation/d/1nncf-fzmn0jox9lDAzNZjUyxRQ0v1vJn9shwO0JnfbA/edit?usp=sharing)
-For more on the methodology: blog page.
+- For a presentation summary of results: [Google Slides](https://docs.google.com/presentation/d/1nncf-fzmn0jox9lDAzNZjUyxRQ0v1vJn9shwO0JnfbA/edit?usp=sharing)
+- For more on the methodology: [blog page](https://lowlowjack.github.io/2024-09-29-going-from-analytics-to-science/).
 
 The rough idea on methodology is that it uses a mixture of different models to attempt to try to create an observational study group that we can draw inferences on. 
 
-There are three notebooks in the repo that derive the working to the presentation and put the methodology in action. To re-run the notebooks, the requirements.txt should have the correct setup of repos to prevent library issues. **PLEASE ensure that you're on Python 3.11. The repos will not work on Python 3.12**. The notebooks shuold be read in the following order
+There are three notebooks in the repo that derive the working to the presentation and put the methodology in action. To re-run the notebooks, the requirements.txt should have the correct setup of repos to prevent library issues. **PLEASE ensure that you're on Python 3.11. The repos will not work on Python 3.12**. The notebooks shuold be read in the following order.
 
 1. **data_cleaning.ipynb**: Notebook that cleans the data into our models and notes a few observations before modelling. 
 2. **bayes_mm_validation.ipynb**: Notebook that creates a mixed model that aims to motivate and validate some of the results we will observe in SCM modelling in the first notebook. Some knowledge of Bayesian statistics would be useful to have before reading here, but I've linked a few resources that can help get people up to speed inside the notebook.
